@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Pxddyk45
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: Discord: Paddyk45#4214
