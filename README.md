@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paddyk45
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Rust
 - 📫 How to reach me: Discord: Paddyk45#4214
 
 
